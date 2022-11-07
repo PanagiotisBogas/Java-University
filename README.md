@@ -1,2 +1,2 @@
-# Java-University
-Java excersices from Univeristy 
+# Java excersices-University
+
