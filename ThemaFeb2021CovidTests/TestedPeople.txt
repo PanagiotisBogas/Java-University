@@ -1,0 +1,14 @@
+Alexiou has performed a test with the following information:
+Molecular Test Date: May 15, 2020 Result: true Type: Nasal Accuracy: 0.99
+-----------------------------------
+Boga has performed a test with the following information:
+Antigen Test Date: April 4, 2020 Result: false Type: Throat Time: 30
+-----------------------------------
+Georgiou has not performed any test.
+-----------------------------------
+Ioannou has performed a test with the following information:
+Antigen Test Date: December 5, 2020 Result: false Type: Nasal Time: 45
+-----------------------------------
+Papadopoulos has performed a test with the following information:
+Antigen Test Date: October 20, 2020 Result: false Type: Throat Time: 30
+-----------------------------------

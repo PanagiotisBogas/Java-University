@@ -1,0 +1,8 @@
+Hrakleio
+Driver's Name: Babis
+Arithmos Kikloforias: KOH1224
+Aytonomia: 140.0
+Driver's Name: Boga
+Arithmos Kikloforias: ΙΕH8274
+Aytonomia: 24.0
+Synoliki aytonomia stolou: 164.0
