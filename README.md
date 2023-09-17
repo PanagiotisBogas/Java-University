@@ -1,2 +1,2 @@
-# Java excersices-University
+# Java excersices/Exam solutions - University
 
