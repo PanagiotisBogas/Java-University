@@ -1,2 +1,2 @@
-# Java excersices/Exam solutions - University
+# Java excersices/Exam solutions - University of Macedonia
 
